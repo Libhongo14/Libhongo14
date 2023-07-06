@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am currently working as a software developer
+- 🔭 I’m currently working on web developement
+- 🌱 I’m currently learning Advanced vue js development
+- 👯 I’m looking to collaborate on game testing gigs
+- 🤔 I’m looking for help with getting new opportunities
+- 💬 Ask me about finishing a sprint quicker than expected
+
 
 
 ## 🌐 Socials:
